@@ -17,6 +17,7 @@ ext {
 }
 
 dependencies {
+	implementation 'junit:junit:4.13.1'
 	implementation 'org.springframework.boot:spring-boot-starter'
 	implementation 'org.projectlombok:lombok:1.18.20'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
